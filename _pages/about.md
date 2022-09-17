@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+#About
 Hello! 
+
+
+Email: haein.kong@rutgers.edu
