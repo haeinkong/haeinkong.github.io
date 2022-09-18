@@ -25,4 +25,4 @@ Yonsei University
 2020, Intern, Vaiv Company  
 
 
-If you want to know more about me, contact me haein.kong@rutgers.edu
+Email: haein.kong@rutgers.edu
