@@ -11,6 +11,10 @@ redirect_from:
 I am a first year PhD student in Library & Information Science at Rutgers University. My research interest is in computational social science, social computing, and human-centered data science. I am interested in applying machine learning to study mental health, well-being, and human behavior.
 
 # Education
+Ph.D. in Library & Information Science
+Rutgers University
+2022 - Present
+
 M.A. in Psychology: Cognitive Engineering  
 Yonsei University  
 2018 - 2020  
