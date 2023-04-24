@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Hello!** 👋
+### Hello! 👋
 
 I'm Haein (해인), a first year PhD student in Library & Information Science at Rutgers University. 
 
