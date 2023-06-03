@@ -1,20 +1,21 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## Hello! 👋
-
+Hello! 👋  
 I'm Haein (해인), a first year PhD student in Library & Information Science at Rutgers University. 
 
 My research interest is in digital health, computational social science, and human-centered data science. I’m interested in applying computational methods and data science to understand, measure, and predict mental health.
 
-
+[//]: # ()
 [//]: # (### Recent News)
+
+[//]: # ([05/05/2023] I will attend the summer )
 
 [//]: # ()
 [//]: # (# Education)
