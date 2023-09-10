@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 Hello! 👋  
-I'm Haein (해인), a second year PhD student in Information Science at Rutgers University. 
+I'm Haein (해인), a second year PhD student in Information Science at Rutgers University. Currently, I'm working with [Dr. Vivek K. Singh](https://sites.comminfo.rutgers.edu/vsingh/) at [Behavioral Informatics Lab](https://behavioralinformatics.org). 
 
 My research interest is in digital health, computational social science, and human-centered data science. I’m interested in applying computational methods and data science to understand, measure, and predict mental health.
 
-
 ### News 
 
-[Aug 2023] Our paper was accepted to the 2023 UbiComp Mental Health workshop 
+[Aug 2023] Our paper, suggesting cognition-aware digital phenotyping for Substance Use Disorder, was accepted to the [2023 UbiComp Mental Health workshop](https://ubicomp-mental-health.github.io) 
 
-[Jun 2023] I attended the 7th CIX workshop at University of Michigan
+[Jun 2023] I attended [the 7th Summer School on Computational Interaction](https://cixschool2023.engin.umich.edu) at University of Michigan
+
 
 [//]: # ()
 [//]: # (# Education)
