@@ -14,9 +14,9 @@ My research interest is in digital health, computational social science, and hum
 
 ### News 
 
-[Aug 2023] Our paper, suggesting cognition-aware digital phenotyping for Substance Use Disorder, was accepted to the [2023 UbiComp Mental Health workshop](https://ubicomp-mental-health.github.io) 
+[August, 2023] Our paper, suggesting cognition-aware digital phenotyping for Substance Use Disorder, was accepted to the [2023 UbiComp Mental Health workshop](https://ubicomp-mental-health.github.io) 
 
-[Jun 2023] I attended [the 7th Summer School on Computational Interaction](https://cixschool2023.engin.umich.edu) at the University of Michigan
+[June, 2023] I attended [the 7th Summer School on Computational Interaction](https://cixschool2023.engin.umich.edu) at the University of Michigan
 
 
 [//]: # ()
