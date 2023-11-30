@@ -17,7 +17,7 @@ My research interest is in digital health, computational social science, and hum
 
 [October, 2023] I will attend [UbiComp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/) in Cancún and present [our workshop paper](https://dl.acm.org/doi/10.1145/3594739.3612877) 
 
-[August, 2023] My first-authored paper, suggesting cognition-aware digital phenotyping for substance use disorder, was accepted to the [2023 UbiComp Mental Health workshop](https://ubicomp-mental-health.github.io) 🎉
+[August, 2023] My workshop paper, suggesting cognition-aware digital phenotyping for substance use disorder, was accepted to the [2023 UbiComp Mental Health workshop](https://ubicomp-mental-health.github.io) 🎉
 
 [June, 2023] I attended [the 7th Summer School on Computational Interaction](https://cixschool2023.engin.umich.edu) at the University of Michigan
 
