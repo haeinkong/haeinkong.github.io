@@ -13,6 +13,8 @@ I'm Haein (해인), a second-year PhD student in Information Science at Rutgers 
 My research interest is in digital health, computational social science, and human-centered data science. I’m interested in applying computational methods and data science to understand, measure, and predict mental health.
 
 ### News
+[July, 2024] Our paper has been accepted to [WASSA 2024](https://workshop-wassa.github.io) shared task track at ACL 2024.
+
 [June, 2024] I will attend [HCIC 2024 Annual Meeting](https://hcic.org)!
 
 [October, 2023] I will attend [UbiComp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/) in Cancún and present [our workshop paper](https://dl.acm.org/doi/10.1145/3594739.3612877) 
