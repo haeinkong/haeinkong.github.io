@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 Hello! 👋  
-I'm Haein (해인), a second-year PhD student in Information Science at Rutgers University. Currently, I'm working with [Dr. Vivek K. Singh](https://sites.comminfo.rutgers.edu/vsingh/) at the [Behavioral Informatics Lab](https://behavioralinformatics.org). 
+I'm Haein (해인), a third-year PhD student in Information Science at Rutgers University. Currently, I'm working with [Dr. Vivek K. Singh](https://sites.comminfo.rutgers.edu/vsingh/) at the [Behavioral Informatics Lab](https://behavioralinformatics.org). 
 
-My research interest is in digital health, computational social science, and human-centered data science. I’m interested in applying computational methods and data science to understand, measure, and predict mental health.
+My research interest is in computational social science, human-centered data science, and trustworthy/responsible AI. My recent works focus on diverse aspects of LLMs, including the bias & fairness, ethics, and leveraging it to predict mental states. 
 
-### News
-[July, 2024] Our paper has been accepted to [WASSA 2024](https://workshop-wassa.github.io) shared task track at ACL 2024. You can read our paper [here](https://aclanthology.org/2024.wassa-1.31.pdf)
+[Nov, 2024] One paper has been accepted to SoLaR, NeurIPS 2024
+
+[July, 2024] Our paper has been accepted to [WASSA 2024](https://workshop-wassa.github.io) shared task track at ACL 2024 (#1 rank). You can read our paper [here](https://aclanthology.org/2024.wassa-1.31.pdf)
 
 [June, 2024] I will attend [HCIC 2024 Annual Meeting](https://hcic.org)!
 
