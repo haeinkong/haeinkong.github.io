@@ -16,7 +16,7 @@ My research interest is in computational social science, human-centered data sci
 
 [May, 2025] I presented at WebSci'25 PhD symposium at Rutgers University, New Brunswick. 
 
-[Nov, 2024] One paper has been accepted to SoLaR, NeurIPS 2024
+[Nov, 2024] One paper has been accepted to [SoLaR, NeurIPS 2024](https://arxiv.org/pdf/2410.20739)
 
 [July, 2024] Our paper has been accepted to [WASSA 2024](https://workshop-wassa.github.io) shared task track at ACL 2024 (#1 rank). You can read our paper [here](https://aclanthology.org/2024.wassa-1.31.pdf)
 
