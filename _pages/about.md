@@ -12,6 +12,10 @@ I'm Haein (해인), a third-year PhD student in Information Science at Rutgers U
 
 My research interest is in computational social science, human-centered data science, and trustworthy/responsible AI. My recent works focus on diverse aspects of LLMs, including the bias & fairness, ethics, and leveraging it to predict mental states. 
 
+[May, 2025] I will join [Digital Safety Research Institute](https://dsri.org) as an intern this summer!! ✨
+
+[May, 2025] I presented at WebSci'25 PhD symposium at Rutgers University, New Brunswick. 
+
 [Nov, 2024] One paper has been accepted to SoLaR, NeurIPS 2024
 
 [July, 2024] Our paper has been accepted to [WASSA 2024](https://workshop-wassa.github.io) shared task track at ACL 2024 (#1 rank). You can read our paper [here](https://aclanthology.org/2024.wassa-1.31.pdf)
