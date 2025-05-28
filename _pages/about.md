@@ -12,7 +12,7 @@ I'm Haein (해인), a third-year PhD student in Information Science at Rutgers U
 
 My research interest is in computational social science, human-centered data science, and trustworthy/responsible AI. My recent works focus on diverse aspects of LLMs, including the bias & fairness, ethics, and leveraging it to predict mental states. 
 
-[May, 2025] I will join [Digital Safety Research Institute](https://dsri.org) as an intern this summer!! ✨
+[May, 2025] I will join [Digital Safety Research Institute](https://dsri.org) located in Evanston, Illinois as an intern this summer!! ✨ 
 
 [May, 2025] I presented at WebSci'25 PhD symposium at Rutgers University, New Brunswick. 
 
