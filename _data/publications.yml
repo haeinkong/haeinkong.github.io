@@ -1,9 +1,9 @@
 main:
 
   - title: Examining racial stereotypes in YouTube autocomplete suggestions
-    authors: Eunbin Ha*, \textbf{Haein Kong*}, Shagun Jhaver
+    authors: Eunbin Ha*, **Haein Kong*** (co-first author), Shagun Jhaver
     conference_short: New Media & Society
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: New Media & Society
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
