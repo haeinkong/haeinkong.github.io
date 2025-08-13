@@ -9,6 +9,7 @@ Hello! 👋 I'm Haein, a PhD candidate in Information Science at Rutgers Univers
 ## Research Interests
 
 - **LLM Safety and Evaluation** 
+- **Fairness and Bias** 
 - **Affective Computing, Psycholinguistics** 
 
 
