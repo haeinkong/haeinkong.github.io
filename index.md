@@ -9,7 +9,8 @@ Hello! 👋 I'm Haein, a PhD candidate in Information Science at Rutgers Univers
 ## Research Interests
 
 - **LLM Safety and Evaluation** 
-- **Affective Computing, Computational Social Science** 
+- **Affective Computing, Psycholinguistics** 
+
 
 ## News
 
