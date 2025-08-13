@@ -1,12 +1,12 @@
 main:
 
   - title: Examining racial stereotypes in YouTube autocomplete suggestions
-    authors: Eunbin Ha*, Haein Kong* (co-first author), Shagun Jhaver
+    authors: Eunbin Ha*, Haein Kong*, Shagun Jhaver
     # conference_short: New Media & Society
     conference: New Media & Society, 2025
 
   - title: Gender Bias in LLM-generated Interview Responses
-    authors: Haein Kong*, Yongsu Ahn, Sangyub Lee, Yunho Maeng
+    authors: Haein Kong*, Yongsu Ahn*, Sangyub Lee*, Yunho Maeng
     # conference_short: New Media & Society
     conference: Socially Responsible Language Modelling Research (SoLaR) Workshop at NeurIPS, 2024
     pdf: https://arxiv.org/pdf/2410.20739
