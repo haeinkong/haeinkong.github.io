@@ -1,5 +1,11 @@
 main:
 
+  - title: SafePersuasion: A Dataset, Taxonomy, and Baselines for Analysis of Rational Persuasion and Manipulation
+    authors: Haein Kong, A M Muntasir Rahman, Ruixiang Tang, and Vivek Singh
+    # conference_short: New Media & Society
+    conference: IJCNLP/AACL Findings, 2025
+    pdf: https://aclanthology.org/2025.findings-ijcnlp.65/
+
   - title: Examining racial stereotypes in YouTube autocomplete suggestions
     authors: Eunbin Ha*, Haein Kong*, Shagun Jhaver
     # conference_short: New Media & Society
