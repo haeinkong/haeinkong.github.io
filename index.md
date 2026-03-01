@@ -14,6 +14,7 @@ Hello! 👋 I'm Haein, a PhD candidate in Information Science at Rutgers Univers
 
 
 ## News
+- **[Jan. 2026]** Our work has been accepted to [the first AI, Manipulation, & Information Integrity (AIMII) workshop at IASEAI'26](https://aimii.info) 
 - **[Oct. 2025]** My first-authored paper got accepted to IJCNLP-AACL Findings 2025
 - **[Jun. 2025]** My co-first-authored paper has been published in New Media & Society.
 - **[May. 2025]** I will join Digital Safety Research Institute as a research intern this summer ✨
