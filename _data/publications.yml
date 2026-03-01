@@ -10,6 +10,7 @@ main:
     authors: Eunbin Ha*, Haein Kong*, Shagun Jhaver
     # conference_short: New Media & Society
     conference: New Media & Society, 2025
+    page: https://journals.sagepub.com/doi/full/10.1177/14614448251346503?casa_token=dz5_TPo2pY4AAAAA%3AI9c-Ni3ETNbMiv_HRGobPTAywThTJjBhqh845xg_AcBdT39p0ArVLV6KgItvxBl9hDfmndmhwMMdzA
 
   - title: Gender Bias in LLM-generated Interview Responses
     authors: Haein Kong*, Yongsu Ahn*, Sangyub Lee*, Yunho Maeng
