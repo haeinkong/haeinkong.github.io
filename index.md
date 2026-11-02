@@ -20,9 +20,9 @@ Feel free to reach out if you'd like to connect or collaborate!
 
 
 ## News
-- **[Sep, 2026]** 🎉 Awarded the University and Louis Bevier Fellowship for the 2026-2027 academic year! 
-- **[Aug, 2026]** 🏆 Our team placed 3rd on the Black-Box Validation leaderboard in the Aletheia's Quest Lie Detection Competition, earning an invitation to the event in Boston.
-- **[Apr, 2026]** ✨ My summer internship project at the Digital Safety Research Institute (DSRI) was accepted to the HEAL Workshop at CHI 2026.
+- **[Sep. 2026]** 🎉 Awarded the University and Louis Bevier Fellowship for the 2026-2027 academic year! 
+- **[Aug. 2026]** 🏆 Our team placed 3rd on the Black-Box Validation leaderboard in the Aletheia's Quest Lie Detection Competition, earning an invitation to the event in Boston.
+- **[Apr. 2026]** ✨ My summer internship project at the Digital Safety Research Institute (DSRI) was accepted to the HEAL Workshop at CHI 2026.
 - **[Oct. 2025]** ✨ My first-author paper was accepted to IJCNLP-AACL Findings 2025.
 
 <details markdown="1" style="margin-top: -0.8em; margin-bottom: 2em;">
